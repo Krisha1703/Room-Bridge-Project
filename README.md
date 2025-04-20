@@ -62,7 +62,7 @@ npm run test
 
 - **User Role-Based Dashboard:** Displays different views based on the user’s role (currently implemented for Guests).
 
-![dashboard.png](/public/screenshots/dashboard.png)
+![dashboard.png](/public/screenshots/user-profile-dashboard.png)
 *User dashboard.*
 
 - **Email Verification:** Users must verify their email via a confirmation link before accessing the platform.
